@@ -1,2 +1,4 @@
 # Airplane Shooting Game
-Run Assignment2_main_2.cpp. Use mouse to aim, left button to fire, wasd to control driving, f/g to toggle floodlight. Members: Angel Acencios, Jamie Low, Howard Qin(Haoran)
+Run Assignment2_main_2.cpp. Use mouse to aim, left button to fire, WASD to control driving, F/G to toggle floodlight. 
+
+Group members: Angel Acencios, Jamie Low, Howard Qin(Haoran)
