@@ -6,6 +6,7 @@ A 3D airplane shooting game developed in **C++ and OpenGL** for a Computer Graph
 
 <!-- Add demo video here -->
 https://github.com/GabAsencios/Computer_Graphics_A2/blob/main/Demo_Video.mp4
+
 [▶️ Watch Demo](./Demo_Video.mp4)
 
 ## Features
