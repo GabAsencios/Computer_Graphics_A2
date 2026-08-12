@@ -4,10 +4,9 @@ A 3D airplane shooting game developed in **C++ and OpenGL** for a Computer Graph
 
 ## Demo
 
-<!-- Add demo video here -->
-https://github.com/GabAsencios/Computer_Graphics_A2/blob/main/Demo_Video.mp4
-
-[▶️ Watch Demo](./Demo_Video.mp4)
+<video src="./Demo_Video.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
 
 ## Features
 
